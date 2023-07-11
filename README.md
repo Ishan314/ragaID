@@ -7,5 +7,6 @@ You can use the Raga Identification software at https://ragaid.pythonanywhere.co
 
 # Future updates
 
-- Allowing Users to input short version names for ragams (Ex. Kalyani for Mechakalyani and Shankarabharanam for Dheerashankarabharanam)
-- More information about the ragam
+- Allowing Users to input short version names for ragams (Ex. Kalyani for Mechakalyani and Shankarabharanam for Dheerashankarabharanam).
+- More information about the ragam.
+- A recording of the scale and maybe an alapana for popular ragams in the database.
